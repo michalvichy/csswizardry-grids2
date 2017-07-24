@@ -1,0 +1,20 @@
+{
+  "name": "csswizardry-grids",
+  "version": "2.3.0",
+  "homepage": "http://csswizardry.com/csswizardry-grids/",
+  "description": "A fully responsive, mobile-first, infinitely nestable, reversible, reorderable, simple to understand, human-friendly, robust grid system.",
+  "main": "csswizardry-grids.scss",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michalvichy/csswizardry-grids2.git"
+  },
+  "keywords": [
+    "csswizardry",
+    "grids",
+    "layout",
+    "grid",
+    "system"
+  ],
+  "author": "Harry Roberts <harry@csswizardry.com>",
+  "license": "Apache"
+}
